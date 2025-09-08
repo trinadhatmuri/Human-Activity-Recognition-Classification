@@ -38,3 +38,14 @@ Advanced machine learning system for classifying human activities using smartpho
 - **Production Ready**: Sub-10ms inference time with comprehensive evaluation framework
 
 ## Project Structure
+
+├── Initial_Data/              # Original UCI HAR dataset
+├── Jupyter_Notebooks/         # 4 analysis notebooks
+├── Processed_Data/            # Feature-engineered datasets
+└── Final_Feature_Sets/        # Optimized feature combinations
+
+## Technologies Used
+Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly
+
+## Key Insights
+This project demonstrates that intelligent feature engineering can achieve strong performance with dramatically reduced computational requirements, making the solution practical for real-time mobile applications while maintaining over 91% accuracy with 95% fewer features.
