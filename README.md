@@ -33,9 +33,9 @@ Advanced machine learning system for classifying human activities using smartpho
 | RF Efficient | 26 | 91.5% | 91.4% | 32.17 |
 
 ## Technical Highlights
-- **95% Feature Reduction**: Maintained 91.5% accuracy with only 26 features (vs 561 original)
-- **Automated Pipeline**: Systematic feature selection and model optimization
-- **Production Ready**: Sub-10ms inference time with comprehensive evaluation framework
+- **95% Feature Reduction**
+- **Systematic feature selection and model optimization**
+- **Production Ready**
 
 ## Project Structure
 
