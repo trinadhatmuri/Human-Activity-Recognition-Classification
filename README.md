@@ -39,10 +39,10 @@ Advanced machine learning system for classifying human activities using smartpho
 
 ## Project Structure
 
--> Initial_Data/              # Original UCI HAR dataset
--> Jupyter_Notebooks/         # 4 analysis notebooks
--> Processed_Data/            # Feature-engineered datasets
--> Final_Feature_Sets/        # Optimized feature combinations
+- Initial_Data/              # Original UCI HAR dataset
+- Jupyter_Notebooks/         # 4 analysis notebooks
+- Processed_Data/            # Feature-engineered datasets
+- Final_Feature_Sets/        # Optimized feature combinations
 
 ## Technologies Used
 Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly
