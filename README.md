@@ -49,3 +49,6 @@ Python, Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly
 
 ## Key Insights
 This project demonstrates that intelligent feature engineering can achieve strong performance with dramatically reduced computational requirements, making the solution practical for real-time mobile applications while maintaining over 91% accuracy with 95% fewer features.
+
+## Citation
+Reyes-Ortiz, J., Anguita, D., Ghio, A., Oneto, L., & Parra, X. (2013). Human Activity Recognition Using Smartphones [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C54S4K.
